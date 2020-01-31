@@ -1,9 +1,1 @@
-languages:
-  - ruby
-tags:
-  - methods
-  - arguments
-  - variables
-  - default arguments
-resources: 1
-
+say_hello("Kent Beck")
